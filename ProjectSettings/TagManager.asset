@@ -44,6 +44,9 @@ TagManager:
   - name: Backgorund
     uniqueID: 2437751321
     locked: 0
+  - name: Water
+    uniqueID: 2736320635
+    locked: 0
   - name: Platforms
     uniqueID: 1435834379
     locked: 0
